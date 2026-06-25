@@ -27,3 +27,4 @@ int main()
 	cout << "\nКоличество отрицательных чисел " << sum << endl;
 	return 0;
 }
+*aaaaaaa*
