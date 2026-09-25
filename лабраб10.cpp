@@ -86,7 +86,7 @@ public:
         std::cout << "название: " << name << "\nid: " << id << "\nдата открытия: " << date.toString() << "\nобласть науки: " << NaukaStringi() << "\nстатус: " << StatusStringi() << "\n\n";
     }
 };
-int main()
+int main()/*dfdf*/
 {
     setlocale(0, "");
     Date data(1, 1, 2008);
